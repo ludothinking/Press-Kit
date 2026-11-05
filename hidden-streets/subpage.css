@@ -1,0 +1,13 @@
+/* ------------------------------
+   Cabeçalho (ajustado)
+------------------------------ */
+header {
+  text-align: center;
+  background: linear-gradient(135deg, #E8C66A, #F3E2B9);
+  color: #494331;
+  padding: 20px;
+  border: 1px solid #D8BD7B;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(100, 80, 40, 0.12);
+  margin-bottom: 30px;
+}
